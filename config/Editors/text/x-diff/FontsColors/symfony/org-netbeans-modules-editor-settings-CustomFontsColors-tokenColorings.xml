@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
+<fontscolors>
+    <fontcolor foreColor="ff2aa198" name="index">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="error" name="error"/>
+    <fontcolor foreColor="ff56db3a" name="added"/>
+    <fontcolor foreColor="ffdc322f" name="removed"/>
+    <fontcolor name="filename">
+        <font style="bold+italic"/>
+    </fontcolor>
+    <fontcolor name="plain"/>
+    <fontcolor foreColor="ffb729d9" name="header">
+        <font style="bold"/>
+    </fontcolor>
+</fontscolors>

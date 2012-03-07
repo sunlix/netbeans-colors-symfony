@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
+<fontscolors>
+    <fontcolor default="error" name="twig_other"/>
+    <fontcolor default="comment" name="twig_comment"/>
+    <fontcolor default="keyword" name="twig_function"/>
+    <fontcolor default="keyword" name="twig_punctuation"/>
+    <fontcolor default="keyword" name="twig_operator"/>
+    <fontcolor default="identifier" name="twig_name"/>
+    <fontcolor foreColor="ff999999" name="twig_variable">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="number" name="twig_number"/>
+    <fontcolor foreColor="ff999999" name="twig_instruction">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="string" name="twig_string"/>
+</fontscolors>
