@@ -22,7 +22,7 @@
     </fontcolor>
     <fontcolor default="comment" name="xml-comment"/>
     <fontcolor default="entity-reference" name="xml-ref"/>
-    <fontcolor default="default" foreColor="ffffc840" name="xml-doctype">
+    <fontcolor default="default" foreColor="ffffd700" name="xml-doctype">
         <font style="bold"/>
     </fontcolor>
 </fontscolors>
