@@ -18,7 +18,7 @@
     <fontcolor name="mod-class"/>
     <fontcolor name="T_INLINE_HTML"/>
     <fontcolor name="mod-unused" waveUnderlined="ff999999"/>
-    <fontcolor bgColor="ff839496" foreColor="ff073642" name="mark-occurrences"/>
+    <fontcolor bgColor="ffaaaaaa" foreColor="ff232125" name="mark-occurrences"/>
     <fontcolor default="string" name="string"/>
     <fontcolor default="field" name="mod-field"/>
     <fontcolor foreColor="ffb729d9" name="heredocdelimiter"/>

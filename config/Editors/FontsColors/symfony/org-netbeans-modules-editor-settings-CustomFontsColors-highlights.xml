@@ -8,11 +8,11 @@
     <fontcolor bgColor="ffdfdfdf" name="readonly-files"/>
     <fontcolor bgColor="white" foreColor="ff333333" name="nbeditor-bracesMatching-match-multichar"/>
     <fontcolor foreColor="white" name="line-number"/>
-    <fontcolor foreColor="blue" name="hyperlinks" underline="blue"/>
+    <fontcolor foreColor="ff1299da" name="hyperlinks" underline="ff1299da"/>
     <fontcolor bgColor="ff073642" name="highlight-caret-row"/>
-    <fontcolor bgColor="red" name="status-bar-bold"/>
+    <fontcolor bgColor="ffdc322f" name="status-bar-bold"/>
     <fontcolor foreColor="black" name="caret-color-overwrite-mode"/>
-    <fontcolor bgColor="ff839496" foreColor="ff073642" name="selection"/>
+    <fontcolor bgColor="ffaaaaaa" foreColor="ff232125" name="selection"/>
     <fontcolor bgColor="ff121e31" foreColor="white" name="status-bar"/>
     <fontcolor bgColor="ff38566f" name="inc-search"/>
     <fontcolor foreColor="ffcc0099" name="synchronized-text-blocks-ext"/>

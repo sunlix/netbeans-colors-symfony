@@ -19,7 +19,7 @@
     <fontcolor name="mod-class">
         <font style="italic"/>
     </fontcolor>
-    <fontcolor bgColor="ff616161" name="mark-occurrences"/>
+    <fontcolor bgColor="ffaaaaaa" foreColor="ff232125" name="mark-occurrences"/>
     <fontcolor default="number" name="numbers"/>
     <fontcolor foreColor="ff2aa198" name="mod-custom1"/>
     <fontcolor default="operator" name="operators"/>
